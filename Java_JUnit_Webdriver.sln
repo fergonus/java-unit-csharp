@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebDriverTest", "MyFirstWebDriverTest\MyFirstWebDriverTest.csproj", "{5431D19A-1D38-411E-9DB9-DD7867532401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Java_Quick_Course_Topics", "Java_Quick_Course_Topics\Java_Quick_Course_Topics.csproj", "{8E8F899E-29B0-4D1A-BB90-6B37663B3798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5431D19A-1D38-411E-9DB9-DD7867532401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5431D19A-1D38-411E-9DB9-DD7867532401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5431D19A-1D38-411E-9DB9-DD7867532401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5431D19A-1D38-411E-9DB9-DD7867532401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿WebDriver:
+C:\Users\errol\Documents\Visual Studio 2013\Projects\Java_JUnit_Webdriver\packages\Selenium.WebDriver.2.47.0\lib\net40\WebDriver.dll
+
+WebDriver.Support
+C:\Users\errol\Documents\Visual Studio 2013\Projects\Java_JUnit_Webdriver\packages\Selenium.Support.2.47.0\lib\net40\WebDriver.Support.dll
+
+Nunit.framework
+C:\Users\errol\Documents\Visual Studio 2013\Projects\Java_JUnit_Webdriver\packages\NUnit.2.6.4\lib\nunit.framework.dll
+
