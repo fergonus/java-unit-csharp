@@ -13,27 +13,28 @@ using System.Threading.Tasks;
 namespace Java_Quick_Course_Topics
 {
     [TestFixture]
-    public class ContactMessageTest
+    public class ContactMessageTest : AbstractWebDriverTest
     {
         IWebDriver driver;
 
         [SetUp]
         public void TestSetUp()
         {
-            driver = new ChromeDriver();
+            onHomePage.navigateToWebApp();
+            Console.WriteLine("Before in test");
         }
 
-        [TearDown]
-        public void TestShutDown()
-        {
-            driver.Close();
-        }
+        //[TearDown]
+        //public void TestShutDown()
+        //{
+        //    driver.Close();
+        //}
 
         [Test]
         public void ShouldSendContactMessage()
         {
-            HomePage onHomePage = new HomePage(driver);
-            onHomePage = onHomePage.NavigateToWebApp();
+            // HomePage onHomePage = new HomePage(driver);
+            // onHomePage = onHomePage.NavigateToWebApp();
             ContactPage onContactPage = onHomePage.ClickOnContact();
             System.Threading.Thread.Sleep(5000);
             ContactResultPage onResultPage = onContactPage.FillFormWithData().SubmitForm();
