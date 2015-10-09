@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebDriverTest", "MyF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Java_Quick_Course_Topics", "Java_Quick_Course_Topics\Java_Quick_Course_Topics.csproj", "{8E8F899E-29B0-4D1A-BB90-6B37663B3798}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{E0818959-E734-4971-9BC9-62AA56C1ED1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverFramework", "WebDriverFramework\WebDriverFramework.csproj", "{249851A2-15C4-4F0D-8A52-30F9423CB97F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E8F899E-29B0-4D1A-BB90-6B37663B3798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0818959-E734-4971-9BC9-62AA56C1ED1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0818959-E734-4971-9BC9-62AA56C1ED1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0818959-E734-4971-9BC9-62AA56C1ED1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0818959-E734-4971-9BC9-62AA56C1ED1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249851A2-15C4-4F0D-8A52-30F9423CB97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249851A2-15C4-4F0D-8A52-30F9423CB97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249851A2-15C4-4F0D-8A52-30F9423CB97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249851A2-15C4-4F0D-8A52-30F9423CB97F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
